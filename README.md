@@ -1,5 +1,6 @@
 # about_sekirosha
 To know about SEKIROSHA, see README file of this repository
+
 # SEKIROSHA 
 SEKIROSHA is a forward-thinking software company that blends creativity with technology. We specialize in <mark>web development</mark>, <mark>app development</mark>, and <mark>product design</mark>, using the latest tools and techniques to bring your digital ideas to life. But what sets us apart is our unique offering of <mark>Event Planning</mark>. We don’t just build websites or apps; we create experiences.
 
