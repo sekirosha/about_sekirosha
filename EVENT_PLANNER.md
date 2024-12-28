@@ -1,2 +1,2 @@
 # Event by <mark>SEKIROSHA</mark>
-**You will find all of our <mark>Event</mark> update here**
+**You will find all of our <a href="" target="blank">Event</a> update here**
